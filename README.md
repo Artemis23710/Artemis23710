@@ -1,29 +1,63 @@
-# 👋 Hi there, I'm **Janith Jayarathna**  
-### 💻 Software Engineer | Web Developer | Tech Enthusiast  
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">👋 Hi there, I'm Janith Rangika </h1>
+<h3 align="center">💻 Software Engineer | Full Stack Developer | Tech Enthusiast  </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janith-jayarathna)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Artemis23710)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:janthjayarathna.info@gmail.com)
 
----
 
-I’m a passionate **Software Engineer** with hands-on experience in **Laravel**, **CodeIgniter**, and modern **web technologies**.  
-I love building efficient, scalable, and user-friendly applications that make a real impact.  
-With a strong foundation in **software engineering** and a continuous drive to learn,  
-I strive to write clean code and create meaningful digital experiences.
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 💼 **Software Engineer** at *eRav Technologies* with 2.5+ years of experience
 
----
+- 🧑‍🎓 I’m an Undergraduate at **University of Wolverhampton**
 
-## 🧠 About Me  
-- 🎓 **BSc (Hons) in Computer Science (Software Engineering)** – *University of Wolverhampton (First Class)*  
-- 💼 **Associate Software Engineer** at *eRav Technologies* with 2.5+ years of experience in **HRM**, **Payroll**, and **ERP systems**  
-- 🚀 Skilled in full-stack development using **PHP**, **Laravel**, **Vue.js**, **JavaScript**, **MySQL**, and **RESTful APIs**  
-- 🤝 A collaborative team player who values code quality, problem-solving, and continuous learning  
-- 🎯 Currently exploring **AI integrations** and **modern web frameworks** for intelligent systems  
+- 💬 Ask me about **Laravel** and **HRM & Payroll** 
 
----
+- 📫 How to reach me **janthjayarathna.info@gmail.com**
+  
+- ⚡ Fun fact **Call me as Artemis**
 
-## ⚙️ Tech Stack  
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  </td>
+</tr>
+</table>
+
+
+<h3 align="center">Languages</h3>
+<p align="center">
+   <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+  </a>
+</p>
 
 **Languages:**  
 `PHP` | `JavaScript` | `C#` | `Python` | `Java`  
