@@ -83,6 +83,9 @@
   <a href="https://angular.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   </a>
+   <a href="https://react.dev/" target="_blank"> 
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
