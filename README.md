@@ -18,7 +18,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 💼 **Software Engineer** at *eRav Technologies* with 2.5+ years of experience
+- 💼 **Software Engineer** at *eRav Technologies* with 4+ years of experience
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Wolverhampton**
 
