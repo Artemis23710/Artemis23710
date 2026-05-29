@@ -60,6 +60,10 @@
       <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
         alt="css3"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+          alt="TypeScript"/>
+  </a>
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -161,6 +165,9 @@
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
 </p>
 
